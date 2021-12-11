@@ -1,2 +1,2 @@
 # tcb-elasticbean
-Creating application using ansible
+Rodando uma aplicação usando Elastic beanstalk usando o ansible.
