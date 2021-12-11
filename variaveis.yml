@@ -1,0 +1,25 @@
+#Nome da VPC
+vpc_name: "vpc-bootcamp1"
+#CIDR da VPC
+vpc_cidr_block: "10.1.0.0/16"
+#Regiao AWS
+aws_region: "us-east-1"
+#Zonas de disponibilidades
+
+availability0: "us-east-1a"
+availability1: "us-east-1b"
+availability2: "us-east-1c"
+availability3: "us-east-1d"
+availability4: "us-east-1e"
+#Nome da subnet
+subnet_name: "public subnet"
+#Redes
+subnet_cidr0: "10.1.0.0/24"
+subnet_cidr1: "10.1.1.0/24"
+subnet_cidr2: "10.1.2.0/24"
+subnet_cidr3: "10.1.3.0/24"
+subnet_cidr4: "10.1.4.0/24"
+subnet_cidr5: "10.1.5.0/24"
+#Tabela
+table_name: "users"
+nomedoapk: "Aplicativo TCB"
